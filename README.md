@@ -1,6 +1,6 @@
-# vue2
+# notebook
 
-> A Vue.js project
+> A Vue.js project,for study.
 
 ## Build Setup
 
