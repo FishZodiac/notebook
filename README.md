@@ -1,7 +1,8 @@
 # notebook
 
 > A Vue.js project,for study.
-
+---
+A note book by localstorage
 ## Build Setup
 
 ``` bash
